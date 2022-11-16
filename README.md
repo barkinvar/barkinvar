@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barkın</h1>
 <h3 align="center">I am computer science student in Sabanci University who is passionate about robotics</h3>
 
-- 🔭 I’m currently working on [**Reddit Video Generator**](https://github.com/barkinvar/AskRedditInstagramBot)
 - 🤖 I’m mentor for FRC Team **#7285** [**Sneaky Snakes**](https://github.com/sneakysnakesfrc)
 - 📫 How to reach me **varbarkn@gmail.com**
 - ⚡ Fun fact **I like to mention that I love robots 😅**
